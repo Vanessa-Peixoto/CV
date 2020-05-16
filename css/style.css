@@ -1,0 +1,37 @@
+aside{
+	
+	background-color: rgb(254,202,46);
+}
+
+.trait{
+	border-bottom: 1px solid rgb(254,202,46);
+}
+
+.nom{
+	color: rgb(254,202,46);
+}
+
+h1{
+	text-transform: uppercase;
+}
+
+h2{
+	text-transform: uppercase;
+	font-size: 25px;
+}
+
+li{
+	list-style: none;
+}
+
+.mycolor{
+	color: rgb(254,202,46);
+}
+
+.small-icon{
+	font-size: 12px;
+}
+
+.large-icon{
+	font-size: 25px;
+}
